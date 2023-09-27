@@ -1,0 +1,27 @@
+.side_block{
+    display: flex;
+    width: 188px;
+    flex-direction: column;
+    padding: 15px;
+    background-color: lightblue;
+    height: 100vh;
+}
+
+.selector{
+    width: 120px;
+    height: 26px;
+    margin-top: 15px;
+}
+.title{
+    font-size: 15px;
+}
+.timeline{
+    display: flex;
+
+}
+.appointments_block{
+   margin-left: 25px;
+}
+.appointments{
+    text-align: center;
+}
